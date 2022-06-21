@@ -3,4 +3,8 @@ Hello world
 Good bye!
 Line from user2
 Line from user1
+<<<<<<< HEAD
 some new feature456
+=======
+some new feature123
+>>>>>>> add-feature1
